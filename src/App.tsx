@@ -20,21 +20,21 @@ SL<span>.</span>
   <section className="hero">
     <div className="hero-conteudo">
       <p className="hero-etiqueta">
-        ENGENHARIA DE SOFTWARE · UNISA
+        ENGENHARIA DE SOFTWARE · PORTFÓLIO
       </p>
 
       <h1>
-        Olá, eu sou
+        Olá, meu nome é 
         <br />
         <span>Sabrina Lazdenas.</span>
       </h1>
 
-      <h2>Transformando curiosidade em código.</h2>
+      <h2>Conheça meus projetos</h2>
 
       <p className="hero-descricao">
-        Sou estudante de Engenharia de Software e estou construindo
-        minha jornada na tecnologia, explorando desenvolvimento de
-        software, Dados e Cibersegurança.
+        Sejam bem-vindos ao meu portfólio!
+        Aqui você encontrará projetos que desenvolvi ao longo da minha jornada na tecnologia,
+        colocando em prática meus conhecimentos em programação e desenvolvimento de software.
       </p>
 
       <div className="hero-botoes">
@@ -73,17 +73,33 @@ SL<span>.</span>
     <p className="secao-etiqueta">UM POUCO SOBRE MIM</p>
 
     <h2>
-      Em constante evolução,
+      Minha jornada.
       <br />
       <span>um projeto de cada vez.</span>
     </h2>
 
     <p>
-      Estou desenvolvendo minhas habilidades em programação por meio
-      dos estudos e de projetos práticos. Quero construir uma base
-      sólida em tecnologia e aprofundar meus conhecimentos em
-      desenvolvimento de software, Dados e Cibersegurança.
+      Sou estudante de Engenharia de Software na Universidade Santo Amaro (UNISA) e 
+      tenho interesse em transformar ideias em soluções tecnológicas seguras, acessíveis
+      e funcionais. Minha formação tem me permitido desenvolver o raciocínio lógico, explorar 
+      diferentes tecnologias e compreender os processos envolvidos na criação de aplicações.
     </p>
+
+    <p>
+      Busco colocar em prática os conhecimentos adquiridos nos estudos por meio de projetos,
+      como o Planej.ai, uma aplicação web de educação financeira desenvolvida com React e 
+      TypeScript, utilizando Vite. Essa experiência tem contribuído para meu aprendizado em
+      desenvolvimento Front-end e despertado meu interesse em compreender também o funcionamento
+      do Back-end e a integração entre diferentes partes de uma aplicação.
+    </p>
+
+    <p>
+    Quero ampliar meus conhecimentos em Engenharia de Software e evoluir na
+    criação de aplicações completas, desde a interface até a lógica e o
+    processamento de dados. Também tenho interesse em segurança de software e
+    busco aprofundar meus conhecimentos em boas práticas de segurança para
+    desenvolver aplicações mais seguras e bem estruturadas.
+  </p>
   </section>
 
   <footer id="contato" className="rodape">
